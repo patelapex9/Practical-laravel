@@ -1,0 +1,265 @@
+{
+  "aliusCode": "A4_404_ErrorForEmptyResponse -> Http Status = 404 - NotFound",
+  "messageToShow": "General error.",
+  "messageInternal": "Data return from db will be return in dynamic object.-> EMPTY RESPONSE FROM DATABASE - Review the id(s) sent.(Probably the main entity id sent is not related with the other entity involved) ",
+  "extraDynamicObject": {
+    "item1": "Logic service result will be returned in item 2,",
+    "item2": [
+      {
+        "Metric": "Metric",
+        "Jan 0001": "Jan 0001",
+        "Total": "Total"
+      },
+      {
+        "Utilizing Claimants": "Utilizing Claimants",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Eligible Claimants": "Eligible Claimants",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Avg Claim Age (yrs)": "Avg Claim Age (yrs)",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "0": "",
+        "Jan 0001": "",
+        "Total": ""
+      },
+      {
+        "Prescription Section": "Prescription Section",
+        "Jan 0001": "",
+        "Total": ""
+      },
+      {
+        "# Brand Fills": "# Brand Fills",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "# Generic Fills": "# Generic Fills",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "# Reinvoicing Fills": "# Reinvoicing Fills",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Total Prescription Count": "Total Prescription Count",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "2": "",
+        "Jan 0001": "",
+        "Total": ""
+      },
+      {
+        "Generic Dispensing Ratio": "Generic Dispensing Ratio",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Avg Quantity Per Script": "Avg Quantity Per Script",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Avg Duration Per Script (days)": "Avg Duration Per Script (days)",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Avg Scripts Per Claim": "Avg Scripts Per Claim",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Brand with Generic Dispense Rate": "Brand with Generic Dispense Rate",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "3": "",
+        "Jan 0001": "",
+        "Total": ""
+      },
+      {
+        "Cost": "Cost",
+        "Jan 0001": "",
+        "Total": ""
+      },
+      {
+        "Brand Spend": "Brand Spend",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Generic Spend": "Generic Spend",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Total Spend": "Total Spend",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Fee Schedule/U&C Cost": "Fee Schedule/U&C Cost",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "5": "",
+        "Jan 0001": "",
+        "Total": ""
+      },
+      {
+        "Average Cost for Brand": "Average Cost for Brand",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Average Cost for Generic": "Average Cost for Generic",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Avg Drug Cost per Prescription": "Avg Drug Cost per Prescription",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Avg Drug Cost per Claim": "Avg Drug Cost per Claim",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "6": "",
+        "Jan 0001": "",
+        "Total": ""
+      },
+      {
+        "Formulary Management": "Formulary Management",
+        "Jan 0001": "",
+        "Total": ""
+      },
+      {
+        "Number of Rejections": "Number of Rejections",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Formulary Prescription Count": "Formulary Prescription Count",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Formulary Dollar Amount": "Formulary Dollar Amount",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Formulary Average Cost Per Script": "Formulary Average Cost Per Script",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Non-Formulary Prescription Count": "Non-Formulary Prescription Count",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Non-Formulary Dollar Amount": "Non-Formulary Dollar Amount",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Non-Formulary Average Cost Per Script": "Non-Formulary Average Cost Per Script",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Prior Authorization Outcomes Count": "Prior Authorization Outcomes Count",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Prior Authorizations Approved": "Prior Authorizations Approved",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Prior Authorizations Not Approved": "Prior Authorizations Not Approved",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "PA Savings": "PA Savings",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Formulary Conversion Savings": "Formulary Conversion Savings",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "8": "",
+        "Jan 0001": "",
+        "Total": ""
+      },
+      {
+        "Total Cost/Savings": "Total Cost/Savings",
+        "Jan 0001": "",
+        "Total": ""
+      },
+      {
+        "Total Drug Cost": "Total Drug Cost",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Total Monthly Management Fee": "Total Monthly Management Fee",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Total Per Script Fee": "Total Per Script Fee",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Total Costs": "Total Costs",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Network Savings": "Network Savings",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "PA Savings": "PA Savings",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Formulary Conversion Savings": "Formulary Conversion Savings",
+        "Jan 0001": 0,
+        "Total": 0
+      },
+      {
+        "Total Savings": "Total Savings",
+        "Jan 0001": 0,
+        "Total": 0
+      }
+    ]
+  }
+}
